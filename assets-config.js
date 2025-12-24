@@ -10,7 +10,7 @@ const ASSETS = {
     // ============================================
     // 🔗 LINK UTAMA - CTA Buttons
     // ============================================
-    linkUtama: "https://t.ly/Yae-P7",              // Link utama (3000+ CTA buttons)
+    linkUtama: "https://cukonglogin.com/",              // Link utama (3000+ CTA buttons)
     linkLivechat: "https://t.ly/PG77_LC",          // Link livechat
     linkRtpPage: "../",                             // Link kembali ke RTP page
 
@@ -31,26 +31,24 @@ const ASSETS = {
     // ============================================
     // 🏷️ BRANDING - Logo & Identitas Website
     // ============================================
-    siteName: "ALEXIS17",                     // Nama website
-    siteTitle: "ALEXIS17 | Sumber Slot RTP Nomor 1 Indonesia Maju",
-    siteTitle_Togel: "ALEXIS17 | Prediksi Togel Akurat Terbaru Hari Ini",
+    siteName: "CUKONGPLAY77",                     // Nama website
+    siteTitle: "CUKONGPLAY77 | RTP GACOR ANTI ZONK",
+    siteTitle_Togel: "CUKONGPLAY77 | Prediksi Togel Akurat Terbaru Hari Ini",
 
-    logoUrl: "https://ik.imagekit.io/xcl991/image.webp",
-    faviconUrl: "https://ik.imagekit.io/xcl991/image.webp",
+    logoUrl: "https://ik.imagekit.io/5awvxqria/CUKONGPLAY77.logo%20gerak.gif",
+    faviconUrl: "https://ik.imagekit.io/5awvxqria/favicon%20cukongplay77.png",
 
     // ============================================
     // 📢 MARQUEE TEXT - Text Berjalan
     // ============================================
-    marqueeText1: "✨ LIVE RTP ALEXIS17 HARI INI ✨ RAIH MAXWIN BESAR ✨ DEPOSIT QRIS INSTAN ✨",
-    marqueeText2: "✨ CARI DI GOOGLE : ALEXIS17 ✨ JACKPOT MENANTI ANDA ✨ QRIS LANGSUNG MASUK ✨",
+    marqueeText1: "✨ LIVE RTP CUKONGPLAY77 HARI INI ✨ RAIH MAXWIN BESAR ✨ DEPOSIT QRIS INSTAN ✨",
+    marqueeText2: "✨ AKTIF BERMAIN UNTUK MAXWIN ✨ JACKPOT MENANTI ANDA ✨ QRIS LANGSUNG MASUK ✨",
 
     // ============================================
     // 🎴 BANNERS - Banner Slider
     // ============================================
     banners: [
-        "https://ik.imagekit.io/xcl991/bannerhome1",
-        "https://ik.imagekit.io/xcl991/bannerhome1",
-        "https://ik.imagekit.io/xcl991/bannerhome1"
+        "https://ik.imagekit.io/5awvxqria/CK%20LIVE%20RTP%20cukongplay77.jpg"
     ],
 
     // ============================================
@@ -66,13 +64,13 @@ const ASSETS = {
     // ============================================
     // 👩‍💼 CUSTOMER CARE - Gambar & Teks
     // ============================================
-    imgCustomerCare: "https://i.ibb.co/V0G11grt/6141086828900060989.jpg",  // Avatar customer care
+    imgCustomerCare: "https://ik.imagekit.io/5awvxqria/cc%20lisa.jpg",  // Avatar customer care
     ccBarText: "CUSTOMER CARE",                                            // Teks di bar
     ccOnlineStart: "11:30",                                                // Jam mulai online
     ccOnlineEnd: "23:30",                                                  // Jam selesai online
     ccDialogTitle: "Customer Care",
     ccDialogSubtitle: "Layanan hingga pukul 23:30",
-    ccDialogMessage: "Halo kak, ini layanan <strong>Customer Care</strong> ALEXIS17 yang aktif setiap hari hingga pukul <strong>23:30</strong>.",
+    ccDialogMessage: "Halo kak, ini layanan <strong>Customer Care</strong> CUKONGPLAY77 yang aktif setiap hari hingga pukul <strong>23:30</strong>.",
     ccDialogMessage2: "Untuk komplain ringan, info event, saran, atau pertanyaan seputar akun, silakan klik tombol di bawah untuk terhubung dengan tim Customer Care.",
     ccDialogButtonText: "Hubungi Customer Care",
 
@@ -81,8 +79,8 @@ const ASSETS = {
     // ============================================
     popupEnabled: true,                                                    // true = tampilkan, false = sembunyikan
     popupDelay: 2000,                                                      // Delay popup muncul (ms)
-    popupRibbonText: "CHRISTMAS SPECIAL EVENT",                            // Label di popup
-    popupImageUrl: "https://ik.imagekit.io/xcl991/bannerhome1", // Gambar banner popup
+    popupRibbonText: "MEGA JACKPOT TERBESAR",                            // Label di popup
+    popupImageUrl: "https://ik.imagekit.io/5awvxqria/SETTING%20CHROME.jpg?updatedAt=1766333798239", // Gambar banner popup
     popupButton1Text: "WhatsApp Admin",                                    // Teks tombol 1
     popupButton2Text: "Customer Care",                                     // Teks tombol 2
 
