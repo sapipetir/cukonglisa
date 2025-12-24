@@ -15,12 +15,13 @@ importScripts('https://www.gstatic.com/firebasejs/10.7.1/firebase-messaging-comp
 // Note: Service workers can't directly access window.FIREBASE_CONFIG
 // So we initialize with a basic config and update from main thread
 let firebaseConfig = {
-    apiKey: "AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    authDomain: "your-project-id.firebaseapp.com",
-    projectId: "your-project-id",
-    storageBucket: "your-project-id.appspot.com",
-    messagingSenderId: "123456789012",
-    appId: "1:123456789012:web:abcdef1234567890abcdef"
+    apiKey: "AIzaSyCKMJh93p4B7sgggqfA2Th4MK1TvZSerF4",              // ✅ FILLED
+    authDomain: "induk-sultanplay77.firebaseapp.com",                           // ✅ FILLED
+    projectId: "induk-sultanplay77",                                            // ✅ FILLED
+    storageBucket: "induk-sultanplay77.firebasestorage.app",                    // ✅ FILLED
+    messagingSenderId: "545556308318",                              // ✅ FILLED
+    appId: "1:545556308318:web:03ac4802f415a0bfd0afcf",            // ✅ FILLED
+    measurementId: "G-57K6GQRN1N",  
 };
 
 // Listen for config updates from main thread
