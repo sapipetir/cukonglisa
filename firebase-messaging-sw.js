@@ -21,7 +21,6 @@ let firebaseConfig = {
     storageBucket: "induk-sultanplay77.firebasestorage.app",                    // ✅ FILLED
     messagingSenderId: "545556308318",                              // ✅ FILLED
     appId: "1:545556308318:web:03ac4802f415a0bfd0afcf",            // ✅ FILLED
-    measurementId: "G-57K6GQRN1N",  
 };
 
 // Listen for config updates from main thread
