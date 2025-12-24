@@ -22,13 +22,13 @@ const FIREBASE_CONFIG = {
     // REQUIRED: Firebase project configuration
     // Get from: Firebase Console > Project Settings > General > Your apps > SDK setup and configuration
 
-    apiKey: "AIzaSyDRPSexI-mYvcGP2LcNPQs-xowvmhqRJR4",              // ✅ FILLED
-    authDomain: "xcl991.firebaseapp.com",                           // ✅ FILLED
-    projectId: "xcl991",                                            // ✅ FILLED
-    storageBucket: "xcl991.firebasestorage.app",                    // ✅ FILLED
-    messagingSenderId: "456793576740",                              // ✅ FILLED
-    appId: "1:456793576740:web:0a25d02833abff31204fb1",            // ✅ FILLED
-    measurementId: "G-R1Z1HD2DWE",                                  // ✅ FILLED
+    apiKey: "AIzaSyCKMJh93p4B7sgggqfA2Th4MK1TvZSerF4",              // ✅ FILLED
+    authDomain: "induk-sultanplay77.firebaseapp.com",                           // ✅ FILLED
+    projectId: "induk-sultanplay77",                                            // ✅ FILLED
+    storageBucket: "induk-sultanplay77.firebasestorage.app",                    // ✅ FILLED
+    messagingSenderId: "545556308318",                              // ✅ FILLED
+    appId: "1:545556308318:web:03ac4802f415a0bfd0afcf",            // ✅ FILLED
+    measurementId: "G-57K6GQRN1N",                                  // ✅ FILLED
 
     // ============================================
     // 📢 VAPID KEY (Web Push Certificate)
@@ -37,7 +37,7 @@ const FIREBASE_CONFIG = {
     // Get from: Firebase Console > Project Settings > Cloud Messaging > Web Push certificates
     // Click "Generate key pair" if you don't have one
 
-    vapidKey: "BK1mZZ0YtK7EHHE-SLMTk8vVeSbMRC_5KcOdTv9p3l6GRt1GtJWMGvn7HIHFDdxaCay_jaRc1KC_VnsxWiMpzeE",    // ✅ FILLED
+    vapidKey: "BEljtyyRbCefn7L1hzcLUkqt_6tC18H2NcZoxpScRmPNNQTV2h_bei8FZ52akbm5Y-mT18Rri8xRTSQkJgeP5GY",    // ✅ FILLED
 
     // ============================================
     // ⚙️ NOTIFICATION SETTINGS
