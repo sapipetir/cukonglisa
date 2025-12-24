@@ -9,14 +9,14 @@
 
     // Configuration from firebase-config.js
     const FIREBASE_CONFIG = window.FIREBASE_CONFIG || {
-        apiKey: "AIzaSyDRPSexI-mYvcGP2LcNPQs-xowvmhqRJR4",
-        authDomain: "xcl991.firebaseapp.com",
-        projectId: "xcl991",
-        storageBucket: "xcl991.firebasestorage.app",
-        messagingSenderId: "456793576740",
-        appId: "1:456793576740:web:0a25d02833abff31204fb1",
-        measurementId: "G-R1Z1HD2DWE",
-        vapidKey: "BK1mZZ0YtK7EHHE-SLMTk8vVeSbMRC_5KcOdTv9p3l6GRt1GtJWMGvn7HIHFDdxaCay_jaRc1KC_VnsxWiMpzeE"
+		apiKey: "AIzaSyCKMJh93p4B7sgggqfA2Th4MK1TvZSerF4",              // ✅ FILLED
+		authDomain: "induk-sultanplay77.firebaseapp.com",                           // ✅ FILLED
+		projectId: "induk-sultanplay77",                                            // ✅ FILLED
+		storageBucket: "induk-sultanplay77.firebasestorage.app",                    // ✅ FILLED
+		messagingSenderId: "545556308318",                              // ✅ FILLED
+		appId: "1:545556308318:web:03ac4802f415a0bfd0afcf",            // ✅ FILLED
+		measurementId: "G-57K6GQRN1N",  
+	    vapidKey: "BEljtyyRbCefn7L1hzcLUkqt_6tC18H2NcZoxpScRmPNNQTV2h_bei8FZ52akbm5Y-mT18Rri8xRTSQkJgeP5GY",    // ✅ FILLED
     };
 
     let messaging = null;
