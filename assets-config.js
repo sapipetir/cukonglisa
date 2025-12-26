@@ -254,44 +254,44 @@ const THEME_PRESETS = {
     },
 
     cukongplay77: {
-        // Background: White/light dengan hint merah
-        bgPrimary: "#cf0e0e",           // Off white
-        bgSecondary: "#fff5f5",         // Light dengan hint merah
-        bgTertiary: "#000000",          // Soft pink/red tint
+        // Background: Dark navy dengan hint merah
+        bgPrimary: "#0a0e1a",           // Deep navy black
+        bgSecondary: "#111827",         // Dark navy
+        bgTertiary: "#1e293b",          // Medium dark navy
 
         // Pattern: Carbon fiber hexagonal (premium look)
-        bgPattern: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0l25.98 15v30L30 60 4.02 45V15z' fill='none' stroke='%23dc2626' stroke-width='1' opacity='0.12'/%3E%3C/svg%3E")`,
+        bgPattern: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0l25.98 15v30L30 60 4.02 45V15z' fill='none' stroke='%23dc2626' stroke-width='1' opacity='0.15'/%3E%3C/svg%3E")`,
 
-        // Accent: Red vibrant
-        accentPrimary: "#000000",       // Red accent
-        accentSecondary: "#000000",     // Light red
-        accentGlow: "rgba(220, 38, 38, 0.1)",  // Subtle glow
+        // Accent: Red vibrant (merah putih theme)
+        accentPrimary: "#dc2626",       // Red accent
+        accentSecondary: "#ef4444",     // Light red
+        accentGlow: "rgba(220, 38, 38, 0.15)",  // Subtle glow
 
-        // Text: Dark for light background
-        textPrimary: "#1f2937",         // Dark grey
-        textSecondary: "#4b5563",       // Medium grey
-        textMuted: "#6b7280",           // Muted grey
+        // Text: White for dark background (putih)
+        textPrimary: "#ffffff",         // Pure white
+        textSecondary: "#e2e8f0",       // Light grey
+        textMuted: "#94a3b8",           // Muted slate
 
-        // CTA: Bold red (standout)
+        // CTA: Bold red with white text
         ctaPrimary: "#dc2626",          // Red
         ctaSecondary: "#b91c1c",        // Dark red
         ctaText: "#ffffff",             // White text
 
-        // Gradient: Light red shades
-        gradientStart: "#ffffff",
-        gradientMid: "#fff1f2",
-        gradientEnd: "#fafafa",
+        // Gradient: Dark navy shades
+        gradientStart: "#0a0e1a",
+        gradientMid: "#131b2e",
+        gradientEnd: "#0a0e1a",
 
         // Border: Subtle red accents
-        borderPrimary: "rgba(220, 38, 38, 0.25)",
-        borderSecondary: "rgba(220, 38, 38, 0.1)",
+        borderPrimary: "rgba(220, 38, 38, 0.3)",
+        borderSecondary: "rgba(220, 38, 38, 0.15)",
 
         // RTP: Universal colors
-        rtpHigh: "#16a34a",
-        rtpMedium: "#ca8a04",
-        rtpLow: "#000000",
+        rtpHigh: "#22c55e",
+        rtpMedium: "#eab308",
+        rtpLow: "#ef4444",
 
-        marqueeBg: "rgba(220, 38, 38, 0.95)",
+        marqueeBg: "rgba(17, 24, 39, 0.95)",
         marqueeText: "#ffffff"
     },
 
