@@ -257,7 +257,7 @@ const THEME_PRESETS = {
         // Background: White/light dengan hint merah
         bgPrimary: "#cf0e0e",           // Off white
         bgSecondary: "#fff5f5",         // Light dengan hint merah
-        bgTertiary: "#cf0e0e",          // Soft pink/red tint
+        bgTertiary: "#000000",          // Soft pink/red tint
 
         // Pattern: Carbon fiber hexagonal (premium look)
         bgPattern: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0l25.98 15v30L30 60 4.02 45V15z' fill='none' stroke='%23dc2626' stroke-width='1' opacity='0.12'/%3E%3C/svg%3E")`,
@@ -289,7 +289,7 @@ const THEME_PRESETS = {
         // RTP: Universal colors
         rtpHigh: "#16a34a",
         rtpMedium: "#ca8a04",
-        rtpLow: "#dc2626",
+        rtpLow: "#000000",
 
         marqueeBg: "rgba(220, 38, 38, 0.95)",
         marqueeText: "#ffffff"
