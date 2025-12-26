@@ -263,8 +263,8 @@ const THEME_PRESETS = {
         bgPattern: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0l25.98 15v30L30 60 4.02 45V15z' fill='none' stroke='%23dc2626' stroke-width='1' opacity='0.12'/%3E%3C/svg%3E")`,
 
         // Accent: Red vibrant
-        accentPrimary: "#dc2626",       // Red accent
-        accentSecondary: "#ef4444",     // Light red
+        accentPrimary: "#000000",       // Red accent
+        accentSecondary: "#000000",     // Light red
         accentGlow: "rgba(220, 38, 38, 0.1)",  // Subtle glow
 
         // Text: Dark for light background
