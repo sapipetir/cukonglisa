@@ -255,7 +255,7 @@ const THEME_PRESETS = {
 
     cukongplay77: {
         // Background: White/light dengan hint merah
-        bgPrimary: "#fafafa",           // Off white
+        bgPrimary: "#808080",           // Off white
         bgSecondary: "#fff5f5",         // Light dengan hint merah
         bgTertiary: "#fee2e2",          // Soft pink/red tint
 
