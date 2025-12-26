@@ -21,12 +21,12 @@ const ASSETS = {
     linkKotakPlay: "https://kotakplay77.com/",                     // Link kotak play
     linkDownloadApk: "https://play77matrix.com/m/downloads/download.apk", // Link download APK
     linkGame: "https://ply77game.com/",                            // Link game
-    linkWhatsAppAdmin: "https://cutt.ly/adminplay77",              // Link WhatsApp admin
+    linkWhatsAppAdmin: "https://direct.lc.chat/13031874/20",              // Link WhatsApp admin
 
     // ============================================
     // 💬 CUSTOMER CARE LINKS
     // ============================================
-    linkCustomerCare: "https://direct.lc.chat/17181420/19",        // Link customer care livechat
+    linkCustomerCare: "https://direct.lc.chat/13031874/20",        // Link customer care livechat
 
     // ============================================
     // 🏷️ BRANDING - Logo & Identitas Website
