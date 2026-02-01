@@ -17,10 +17,6 @@ const ASSETS = {
     // ============================================
     // 🎯 FLOATING MENU LINKS - Menu Melayang Kiri
     // ============================================
-    linkSurvey: "https://play77bet.link/kritik&saran/",           // Link survey/kritik saran
-    linkKotakPlay: "https://kotakplay77.com/",                     // Link kotak play
-    linkDownloadApk: "https://play77matrix.com/m/downloads/download.apk", // Link download APK
-    linkGame: "https://ply77game.com/",                            // Link game
     linkWhatsAppAdmin: "https://direct.lc.chat/13031874/20",              // Link WhatsApp admin
 
     // ============================================
@@ -90,7 +86,6 @@ const ASSETS = {
     navHomeText: "HOME",                    // Teks tombol Home
     navRtpText: "RTP",                      // Teks tombol RTP
     navHotText: "HOT",                      // Teks tombol Hot
-    navLivechatText: "Customer Care",       // Teks tombol Livechat/CS
 
     // ============================================
     // ⚙️ FITUR TOGGLE - Aktifkan/Nonaktifkan Komponen
