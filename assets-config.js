@@ -11,7 +11,7 @@ const ASSETS = {
     // 🔗 LINK UTAMA - CTA Buttons
     // ============================================
     linkUtama: "https://cukonglogin.com/",              // Link utama (3000+ CTA buttons)
-    linkLivechat: "https://t.ly/PG77_LC",          // Link livechat
+    linkLivechat: "https://direct.lc.chat/13031874/20",          // Link livechat
     linkRtpPage: "../",                             // Link kembali ke RTP page
 
     // ============================================
